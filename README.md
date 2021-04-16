@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
+### Hi there 👋, I'm Baptiste ! (Foxy / Electrica ).
 
 <br/>
 <a href="https://www.instagram.com/baptiste.oxf/">
