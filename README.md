@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Baptiste ! (Foxy / Electrica ).
+### Hi there 👋, I'm Baptiste ! ( Foxy ).
 
 <br/>
 <a href="https://www.instagram.com/baptiste.oxf/">
@@ -14,7 +14,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/713795194562150410.png)
 
-Hey, I'm Foxy ( Electrica ), a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
+Hey, I'm Foxy, a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
 
  **Information:**
 
