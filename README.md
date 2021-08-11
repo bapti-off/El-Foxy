@@ -1,20 +1,6 @@
-### Hi there 👋, I'm Baptiste ! ( Foxy ).
+### Hi there 👋, I'm Baptiste ! ( FlyHart ).
 
-<br/>
-<a href="https://www.instagram.com/baptiste.oxf/">
-  <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.com/users/713795194562150410">
-    <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
-
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
-
-<br/>
-
-![Discord](https://discord.c99.nl/widget/theme-3/713795194562150410.png)
-
-Hey, I'm Foxy, a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
+Hey, I'm FlyHart, a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
 
  **Information:**
 
