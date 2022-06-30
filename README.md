@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Baptiste ! ( FlyHart ).
 
-Hey, I'm FlyHart, a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
+Hey, I'm Bapti.Off, a Web Developer 🚀, Back End Developer & Discord Bot Developer from France. ~~And a Weeb.~~
 
  **Information:**
 
@@ -9,7 +9,7 @@ Hey, I'm FlyHart, a Web Developer 🚀, Back End Developer & Discord Bot Develop
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech and Anime.**
-- 📫 Contact me at :  **bbonvoisin85@gmail.com.**
+- 📫 Contact me at :  **bapti.off@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
